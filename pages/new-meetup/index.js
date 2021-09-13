@@ -1,6 +1,6 @@
 import NewMeetupForm from '../../components/meetups/NewMeetupForm';
 import {useRouter} from 'next/router';
-import Head from 'next/header';
+import Head from 'next/head';
 import {Fragment} from 'react';
 
 function NewMeetupPage() {
